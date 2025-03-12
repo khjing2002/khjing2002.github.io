@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="pic.jpg" alt="profile" width="30" height="30">
+<img src="pic.jpg" alt="profile" width="300" height="300">
 
 Hi! I am Kaihao Jing, a second-year Ph.D. student at the [Department of Statistics, UC Berkeley](https://statistics.berkeley.edu/), advised by [Shirshendu Ganguly](https://www.stat.berkeley.edu/~sganguly/). Previously, I obtained my bachelor degree from University of Science and Technology of China, where my advisors were [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/) and [Dangzheng Liu](https://scholar.google.com/citations?user=q5EhbgoAAAAJ&hl=en). Here is my [CV](My_CV.pdf).
 
