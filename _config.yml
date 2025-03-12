@@ -15,6 +15,8 @@ github:
     branch: "master"
     path: "/"
   repository_url: "https://github.com/pages-themes/primer"
+
+  avatar: /assets/images/profile.jpg
   
 title: Kaihao Jing
 description: 
