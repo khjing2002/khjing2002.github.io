@@ -7,7 +7,7 @@ Hi! I am Kaihao Jing, a second-year Ph.D. student at the [Department of Statisti
 
 #### Research Interests
 
-My current research interests lie in probability and its interaction with statistical phyiscs.
+My current research interests lie in probability and its interaction with statistical physics.
 
 #### Contact
 
@@ -15,7 +15,7 @@ Email: khjing at berkeley dot edu
 ## Reaserch
 
 **Critical level set percolation for the GFF in d>6: comparison principles and some consequences.** <br>
-Jointy with Shirshendu Ganguly. [arXiv:2412.17768](https://arxiv.org/abs/2412.17768).
+jointly with Shirshendu Ganguly. [arXiv:2412.17768](https://arxiv.org/abs/2412.17768).
 
 ## Teaching
 
