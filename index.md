@@ -20,7 +20,7 @@ jointly with Shirshendu Ganguly. [arXiv:2412.17768](https://arxiv.org/abs/2412.1
 ## Teaching
 
 **Spring 2022**: TA, Probability Theory, USTC.<br>
-**Spring 2024**: GSI, STAT 134 (Concepts of Probability), UC Berkeley.<br>
-**Fall 2024**: GSI, STAT 134 (Concepts of Probability), UC Berkeley.<br>
+**Spring 2024 - Fall 2024**: GSI, STAT 134 (Concepts of Probability), UC Berkeley.<br>
 **Spring 2025**: GSI, STAT 210B (Theoretical Statistics), UC Berkeley.<br>
-**Fall 2025**: GSI, STAT 150 (Stochastic Processes), UC Berkeley.
+**Fall 2025**: GSI, STAT 150 (Stochastic Processes), UC Berkeley.<br>
+** Spring 2026**: GSI, STAT 204 (Probability for Applications), UC Berkeley.
